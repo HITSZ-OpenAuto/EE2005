@@ -66,6 +66,8 @@
 
 - 教师2：张颖
 
+这两位老师的评价见于 [自动控制理论A](https://hoa.moe/docs/junior-autumn/auto3001a/)。
+
 
 ## 关于考试
 
