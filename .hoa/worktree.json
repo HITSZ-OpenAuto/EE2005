@@ -1,0 +1,167 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2658,
+    "time": 1751724822,
+    "hash": "c014ca3763fa2f9a97c7d9197fca265c801c5b32"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1734929809,
+    "hash": "b98d0ec7c2b3fb390f0552e635d39b9752e7d3e0"
+  },
+  "README.md": {
+    "size": 5398,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737449899,
+    "hash": "fb388a7751f8eb73b9a5484ba666a55921ec8df8"
+  },
+  "assignments/2025春/Gaster解答/系统与控制作业1-Gaster.pdf": {
+    "size": 347922,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "assignments/2025春/Gaster解答/系统与控制作业2-Gaster.pdf": {
+    "size": 504298,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "assignments/2025春/Gaster解答/系统与控制作业3-Gaster.pdf": {
+    "size": 416695,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "assignments/2025春/Gaster解答/系统与控制作业4-Gaster.pdf": {
+    "size": 408201,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "assignments/2025春/Gaster解答/系统与控制作业5-Gaster.pdf": {
+    "size": 294090,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "assignments/2025春/Gaster解答/系统与控制作业6-Gaster.pdf": {
+    "size": 755778,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "assignments/2025春/Gaster解答/系统与控制作业7-Gaster.pdf": {
+    "size": 759337,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "assignments/2025春/Gaster解答/系统与控制作业8-Gaster.pdf": {
+    "size": 788925,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "assignments/2025春/系统与控制作业-1.pdf": {
+    "size": 202158,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "assignments/2025春/系统与控制作业-2.pdf": {
+    "size": 301410,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "assignments/2025春/系统与控制作业-3.pdf": {
+    "size": 290964,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "assignments/2025春/系统与控制作业-4.pdf": {
+    "size": 312720,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "assignments/2025春/系统与控制作业-5.pdf": {
+    "size": 273562,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "assignments/2025春/系统与控制作业-6.pdf": {
+    "size": 291793,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "assignments/2025春/系统与控制作业-7.pdf": {
+    "size": 396837,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "assignments/2025春/系统与控制作业-8.pdf": {
+    "size": 345623,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737449899,
+    "hash": "fb388a7751f8eb73b9a5484ba666a55921ec8df8"
+  },
+  "exams/2025春系统与控制期末试题（回忆版）.pdf": {
+    "size": 1245288,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "labs/2025春/系统与控制上机1报告-Gaster.pdf": {
+    "size": 1590760,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "labs/2025春/系统与控制上机2报告-Gaster.pdf": {
+    "size": 2542946,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "labs/2025春/系统与控制实验1报告-Gaster.pdf": {
+    "size": 2274309,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "labs/2025春/系统与控制实验2报告-Gaster.pdf": {
+    "size": 1507311,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "labs/2025春/系统与控制实验3报告-Gaster.pdf": {
+    "size": 1912187,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "labs/2025春/系统与控制实验4报告-Gaster.pdf": {
+    "size": 1670550,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "labs/README.md": {
+    "size": 395,
+    "time": 1734929809,
+    "hash": "b98d0ec7c2b3fb390f0552e635d39b9752e7d3e0"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737449899,
+    "hash": "fb388a7751f8eb73b9a5484ba666a55921ec8df8"
+  },
+  "notes/25 春系统与控制笔记-Gaster.pdf": {
+    "size": 2884644,
+    "time": 1751009503,
+    "hash": "64b046e3c5d56b23ce94c91d0349b5476cb6ccc4"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737449899,
+    "hash": "fb388a7751f8eb73b9a5484ba666a55921ec8df8"
+  },
+  "tag.txt": {
+    "size": 68,
+    "time": 1734931078,
+    "hash": "e26b8414b6ffb70af72d5f30c528e637383f02d3"
+  }
+}
